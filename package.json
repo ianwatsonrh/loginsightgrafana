@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@grafana/toolkit": "^8.2.0"
+  }
+}
